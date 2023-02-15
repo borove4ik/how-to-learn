@@ -116,7 +116,7 @@
   padding-bottom: 30px;
 }
 
-.two-columns__paragraph:nth-child(3) {
+.two-columns__paragraph:last-child(3) {
   padding: 0;
 }
 
@@ -285,12 +285,10 @@
 
 .logo_place_footer {
   background-image: url(../images/logo_place_footer.svg);
-  width: 228px;
-  height: 32px;
 }
 
 .footer__author {
-  padding: 16px 0;
+  margin: 18px 0;
   line-height: 25px;
   font-size: 18px;
   font-weight: normal;
@@ -317,6 +315,6 @@
   color: #ffff;
 }
 
-.footer__column-link:nth-child(3) {
+.footer__column-link:last-child(3) {
   padding-bottom: 16px;
 }
