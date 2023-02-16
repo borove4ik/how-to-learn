@@ -116,7 +116,7 @@
   padding-bottom: 30px;
 }
 
-.two-columns__paragraph:last-child(3) {
+.two-columns__paragraph:last-child {
   padding: 0;
 }
 
@@ -315,6 +315,6 @@
   color: #ffff;
 }
 
-.footer__column-link:last-child(3) {
+.footer__column-link:last-child {
   padding-bottom: 16px;
 }
