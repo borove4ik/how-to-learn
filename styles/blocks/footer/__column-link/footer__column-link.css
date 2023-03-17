@@ -1,0 +1,13 @@
+.footer__column-link {
+  text-decoration: none;
+  color: #ffff;
+  transition: opacity 150ms linear;
+}
+
+.footer__column-link:last-child {
+  padding-bottom: 16px;
+}
+
+.footer__column-link:hover {
+  opacity: 65%;
+}
