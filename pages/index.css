@@ -32,7 +32,7 @@
 @import url(../blocks/table/__heading/table__heading.css);
 @import url(../blocks/table/__text/table__text.css);
 @import url(../blocks/table/_theme/table_theme_dark.css);
-@import url(../blocks/table/__cell/_theme_dark/table__cell_theme_dark.css);
+@import url(../blocks/table/__cell/_theme/table__cell_theme_dark.css);
 @import url(../blocks/kaufman/kaufman.css);
 @import url(../blocks/kaufman/__triangle/kaufman__triangle.css);
 @import url(../blocks/footer/footer.css);
@@ -63,9 +63,9 @@
 @import url(../blocks/resources/resources.css);
 @import url(../blocks/resources/__link/resources__link.css);
 @import url(../blocks/resources/__logo-zone/resources__logo-zone.css);
-@import url(../blocks/resources/__link/_link-arzamas/resources__link_link-arzamas.css);
-@import url(../blocks/resources/__link/link-nplus/resources__link_link-nplus.css);
-@import url(../blocks/resources/__link/link-polka/resources__link_link-polka.css);
-@import url(../blocks/resources/__link/link-strelka/resources__link_link-strelka.css);
+@import url(../blocks/resources/__link/_image/resources__link_image_arzamas.css);
+@import url(../blocks/resources/__link/_image/resources__link_image_nplus.css);
+@import url(../blocks/resources/__link/_image/resources__link_image_polka.css);
+@import url(../blocks/resources/__link/_image/resources__link_image_strelka.css);
 @import url(../blocks/rotation/rotation.css);
 @import url(../blocks/video/__iframe/video__iframe.css);
